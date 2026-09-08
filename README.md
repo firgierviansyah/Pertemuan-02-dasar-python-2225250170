@@ -8,7 +8,7 @@
 
 ## Tujuan Repository
 
-Repository ini dibuat untuk memenuhi tugas Pertemuan 02 mata kuliah Algoritma dan Pemrograman.
+Repository ini dibuat untuk memenuhi tugas Pertemuan 2 mata kuliah Algoritma dan Pemrograman.
 
 ## Daftar Berkas
 
