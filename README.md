@@ -3,7 +3,7 @@
 ## Identitas
 
 - Nama : FIRGI ERVIANSYAH
-- NIM : 2225250170
+- NIM  : 2225250170
 - Kelas : 3B
 
 ## Tujuan Repository
