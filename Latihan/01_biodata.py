@@ -7,7 +7,6 @@ tahun_lahir = int(input("Tahun lahir: "))
 
 umur = TAHUN_SEKARANG - tahun_lahir
 
-
 print()
 print("KARTU BIODATA")
 print(f"Nama  : {nama}")
