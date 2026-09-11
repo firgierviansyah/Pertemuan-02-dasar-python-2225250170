@@ -120,7 +120,7 @@ python3 nama_file.py
 Nama : Firgi Erviansyah
 NIM : 2225250170
 Kelas : 3B
-Tahun lahir : 2005
+Tahun lahir : 2007
 ```
 
 ### Output
@@ -131,7 +131,7 @@ KARTU BIODATA
 Nama  : Firgi Erviansyah
 NIM   : 2225250170
 Kelas : 3B
-Umur  : sekitar 21 tahun
+Umur  : sekitar 19 tahun
 ```
 
 ---
